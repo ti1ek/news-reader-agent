@@ -1,4 +1,4 @@
 import dotenv
-from crew import Crew, Agent, Task
+from crewai import Crew, Agent, Task
 
-dotenv.load_dotenv()
+dotenv.load_dotenv() 
