@@ -1,0 +1,1 @@
+It looks like the topic placeholder ({topic}) hasn’t been specified. Could you please let me know which topic you’d like me to gather recent news articles for?
