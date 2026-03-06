@@ -1,6 +1,9 @@
-It looks like I’m missing two key pieces before I can get started:
+# News Summaries: Cambodia–Thailand War
 
-1. The specific topic you’d like me to focus on  
-2. The list of URLs (from the “previous task”) that I should scrape and summarize  
+**Summary Report Overview**  
+- Total articles processed: 0  
+- Summary generation date: 2026-03-06  
 
-Could you please share the topic and the URLs? Once I have those, I’ll pull each article, then produce the multi-tier summaries in the requested Markdown format.
+No articles meeting the specified criteria (published within the last 48 hours, unique full‐text news pages) were found for the Cambodia–Thailand border clashes. Thus, no multi‐tier summaries could be generated. 
+
+Please adjust the search parameters or timeframe and retry to identify recent reports.
